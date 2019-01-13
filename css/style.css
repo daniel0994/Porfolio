@@ -1,0 +1,8 @@
+
+
+#welcome {
+	margin-top: 60px;
+}
+#welcome, #skills, #portfolio, #about, #contact {
+	height: 100vh;
+}
